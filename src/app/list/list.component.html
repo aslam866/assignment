@@ -1,0 +1,5 @@
+<ul>
+<ng-container *ngIf="data.length > 0">
+    <li *ngFor="let item of data;trackBy: trackByFn">{{item?.name}}</li>
+</ng-container>
+</ul>

@@ -1,0 +1,42 @@
+{
+	"total": 20,
+	"resultSetId": 4578,
+	"value":[
+		{
+			"name": "HAL limited",
+			"isSmallCap": "N",
+			"currentValue": 1000
+		},
+		{
+			"name": "Green Corp limited",
+			"isSmallCap": "Y",
+			"currentValue": 50
+		},
+
+		{
+			"name": "TCS limited",
+			"isSmallCap": "N",
+			"currentValue": 3000
+		},
+		{
+			"name": "Infosys limited",
+			"isSmallCap": "N",
+			"currentValue": 1200
+		},
+		{
+			"name": "Mahindra limited",
+			"isSmallCap": "N",
+			"currentValue": 2000
+		},
+		{
+			"name": "Tata limited",
+			"isSmallCap": "N",
+			"currentValue": 4000
+		},
+		{
+			"name": "ABC chemicals",
+			"isSmallCap": "Y",
+			"currentValue": 90
+		}
+	]
+}
